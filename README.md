@@ -17,6 +17,8 @@ This software allows you to operate up to 4 Explorers in the same screen!
 
 ## Installation
 
+* Setup/Setup.msi
+
 ## Author
 
 * R.Kobayashi
