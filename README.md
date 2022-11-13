@@ -19,7 +19,7 @@ This software allows you to operate up to 4 Explorers in the same screen!
 
 ## Author
 
-* Ryunosky
+* R.Kobayashi
 
 ## License
 
